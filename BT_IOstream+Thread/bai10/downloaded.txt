@@ -1,0 +1,2189 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>WELCOME TO FC ONLINE</title>
+  <link rel="shortcut icon" href="https://cdn.vn.garenanow.com/web/fo4vn/Khoa/2023/T9/FCO/favicon.ico" type="image/vnd.microsoft.icon" />
+  <meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/fconline.garena.vn\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://fconline.garena.vn/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='app-icomoon-css' href='https://fconline.garena.vn/wp-content/themes/fc-online/assets/fonts/icomoon/style.css?ver=22.09.2023' type='text/css' media='all' />
+<link rel='stylesheet' id='app-owl-carousel-css' href='https://fconline.garena.vn/wp-content/themes/fc-online/assets/css/owl.carousel.min.css?ver=22.09.2023' type='text/css' media='all' />
+<link rel='stylesheet' id='app-owl-theme-default-css' href='https://fconline.garena.vn/wp-content/themes/fc-online/assets/css/owl.theme.default.min.css?ver=22.09.2023' type='text/css' media='all' />
+<link rel='stylesheet' id='app-styles-css' href='https://fconline.garena.vn/wp-content/themes/fc-online/assets/css/styles.css?ver=22.09.2023' type='text/css' media='all' />
+<script type="text/javascript" src="https://fconline.garena.vn/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://fconline.garena.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://fconline.garena.vn/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://fconline.garena.vn/wp-json/wp/v2/pages/6" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://fconline.garena.vn/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.1" />
+<link rel="canonical" href="https://fconline.garena.vn/" />
+<link rel='shortlink' href='https://fconline.garena.vn/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://fconline.garena.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffconline.garena.vn%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://fconline.garena.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffconline.garena.vn%2F&#038;format=xml" />
+  <!--[if lt IE 9]>
+  <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MLZQD3KJ');</script>
+  <!-- End Google Tag Manager -->
+  </head>
+<body class="home page-template page-template-tpl-home page-template-tpl-home-php page page-id-6">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MLZQD3KJ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <header class="header">
+    <div class="wrapper">
+      <div class="header__wrap">
+                  <a href="https://fconline.garena.vn" title="WELCOME TO FC ONLINE" class="header__logo">
+            <img src="https://fconline.garena.vn/wp-content/uploads/2023/09/logo.png" alt="WELCOME TO FC ONLINE logo">
+          </a>
+                <a href="#" class="header__toggle mo">
+          <i class="icon-menu"></i>
+          <i class="icon-close"></i>
+        </a>
+        <ul class="header__menu"><li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-9"><a href="https://fconline.garena.vn/" aria-current="page">Trang chủ</a></li>
+<li id="menu-item-6938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6938"><a href="https://fconline.garena.vn/tin-tuc/">Tin tức</a>
+<ul class="sub-menu">
+	<li id="menu-item-6939" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6939"><a href="https://fconline.garena.vn/tin-tuc/vat-pham/">Vật phẩm</a></li>
+	<li id="menu-item-6940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6940"><a href="https://fconline.garena.vn/tin-tuc/su-kien/">Sự kiện</a></li>
+	<li id="menu-item-6941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6941"><a href="https://fconline.garena.vn/tin-tuc/giai-dau/">Giải đấu</a></li>
+	<li id="menu-item-6942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6942"><a href="https://fconline.garena.vn/tin-tuc/dev-notes/">Dev Notes</a></li>
+	<li id="menu-item-11092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11092"><a href="https://fconline.garena.vn/tin-tuc/huong-dan-tan-hlv/">Hướng dẫn tân HLV</a></li>
+	<li id="menu-item-11090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11090"><a href="https://fconline.garena.vn/tin-tuc/ban-tin-cap-nhat/">Bản tin cập nhật</a></li>
+	<li id="menu-item-11091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11091"><a href="https://fconline.garena.vn/tin-tuc/mua-the-cau-thu/">Mùa thẻ cầu thủ</a></li>
+	<li id="menu-item-13846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13846"><a href="https://fconline.garena.vn/tin-tuc/phong-may/">Phòng máy</a></li>
+</ul>
+</li>
+<li id="menu-item-11096" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11096"><a target="_blank" href="https://hocvien.fconline.garena.vn/">Hướng dẫn người chơi mới</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19"><a href="#">Công cụ</a>
+<ul class="sub-menu">
+	<li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="https://dc.fconline.garena.vn/">Data Center</a></li>
+	<li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a href="https://hotrofconline.garena.vn/">Hỗ trợ</a></li>
+	<li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="https://ranking.fconline.garena.vn/">Ranking</a></li>
+	<li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a href="https://fconline.member.garena.vn/">VIP Member</a></li>
+	<li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="https://resetpass.fconline.garena.vn/">Reset Pass 2</a></li>
+	<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="https://coupon.fconline.garena.vn/">Nhập Code</a></li>
+	<li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="https://khoatk.fconline.garena.vn/">Khóa TK khẩn cấp</a></li>
+	<li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a href="https://www.facebook.com/EASportsFCOnlineVN">Facebook Fanpage</a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="https://www.youtube.com/channel/UCrCqu1n0H52uGETAoSmgNdQ">YouTube Channel</a></li>
+</ul>
+</li>
+</ul>        <div class="header__right">
+          <div class="header__search pc">
+            <a href="#" class="header__search--button" title="Tìm kiếm"></a>
+            <form action="https://fconline.garena.vn/tin-tuc" class="header__search--form">
+              <input
+                type="text"
+                name="kw"
+                class="header__search--input"
+                placeholder="Nhập từ khoá..."
+                value=""
+              />
+            </form>
+          </div>
+          <ul class="header__buttons"><li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35"><a href="https://napthe.vn/app">Nạp FC/MC</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a href="https://fconline.garena.vn/huong-dan-tai-va-cai-dat-fifa-online-4-tren-pc-va-mobile/">Tải Game</a></li>
+</ul>        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="main">
+
+<div class="p-home">
+  <!-- Banner -->
+      <section class="st-banner">
+      <img src="https://fconline.garena.vn/wp-content/uploads/2023/10/slide1-1.gif" class="st-banner__img">
+      <div class="st-banner__wrap">
+        <div class="wrapper">
+                                          <a href="https://fconline.garena.vn/thong-bao-ve-ea-sports-fc-online/" class="btn btn-primary">
+              Tìm hiểu thêm            </a>
+                  </div>
+      </div>
+    </section>
+  
+  <!-- Slider -->
+      <section class="st-slider">
+      <div class="owl-carousel"><a href="https://pingoal.fconline.garena.vn/" target="_blank"><img src="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-PinGoal-003-24UCL-KV-1920x900-1.jpg" data-index="1"/></a><a href="https://fconline.garena.vn/so-tay-hlv-mua-12/" target="_blank"><img src="https://fconline.garena.vn/wp-content/uploads/2025/03/SOTAYHLV_MUA10_1900x900.png" data-index="2"/></a><a href="https://luckyball.fconline.garena.vn/" target="_blank"><img src="https://fconline.garena.vn/wp-content/uploads/2025/03/1920x900-1.png" data-index="3"/></a><a href="https://fconline.garena.vn/big-offline-fc-online-tour-2025/" target="_blank"><img src="https://fconline.garena.vn/wp-content/uploads/2025/03/BUSTOUR_KV_1920x1080.jpg" data-index="4"/></a><a href="https://fconline.garena.vn/mua-the-24ucl/" target="_blank"><img src="https://fconline.garena.vn/wp-content/uploads/2025/02/1920x900-3.jpg" data-index="5"/></a><a href="https://fconline.garena.vn/icon-tm-t2-2025/" target="_blank"><img src="https://fconline.garena.vn/wp-content/uploads/2025/02/KV_IconTM-022025_1920x900.png" data-index="6"/></a><a href="https://fvpl.fconline.garena.vn/" target="_blank"><img src="https://fconline.garena.vn/wp-content/uploads/2023/09/KVDAU_FVPLSP25_1920x900.jpg" data-index="7"/></a><a href="https://www.facebook.com/FCOnlineEsportsVN" target="_blank"><img src="https://fconline.garena.vn/wp-content/uploads/2023/09/Banner_slide21_FVPLSpring2025_SwissStage_1920x900-3.jpg" data-index="8"/></a><a href="https://fconline.garena.vn/swiss-stage-fvpl-spring-2025/" target="_blank"><img src="https://fconline.garena.vn/wp-content/uploads/2023/09/KV_FVPLSP25_1920x900.jpg" data-index="9"/></a><a href="https://monthly.fconline.garena.vn/" target="_blank"><img src="https://fconline.garena.vn/wp-content/uploads/2023/09/2025-MonthPack-T3-KV-1920x900-1.jpg" data-index="10"/></a><a href="https://hocvien.fconline.garena.vn/" target="_blank"><img src="https://fconline.garena.vn/wp-content/uploads/2024/05/KV_HOC-VIEN-FC-ONLINE_1920x900.png" data-index="11"/></a></div>      <div class="st-slider__wrap">
+        <ul class="tool-menu pc"><li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="https://hotrofconline.garena.vn/"><i class="ic-support"></i> Hỗ trợ</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30"><a href="https://ranking.fconline.garena.vn/"><i class="ic-ranking"></i> Ranking</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="https://fconline.member.garena.vn/"><i class="ic-crown"></i> VIP member</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="https://resetpass.fconline.garena.vn/"><i class="ic-lock"></i> Reset pass 2</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33"><a href="https://coupon.fconline.garena.vn/"><i class="ic-coupon"></i> Coupon</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34"><a href="https://khoatk.fconline.garena.vn/"><i class="ic-locked"></i> Khoá tk khẩn cấp</a></li>
+<li id="menu-item-11444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11444"><a href="https://hocvien.fconline.garena.vn/"><i class="ic-support"></i> HD người mới</a></li>
+</ul>        <div class="st-slider__bar">
+          <div class="st-slider__bar--status">
+            <span class="owl-carousel__current">1</span>/11          </div>
+          <div class="st-slider__bar--nav">
+            <a href="#" class="owl-carousel__prev">
+              <i class="ic-prev"></i>
+            </a>
+            <a href="#" class="owl-carousel__next">
+              <i class="ic-next"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  
+  <!-- Events -->
+      <section class="st-events">
+      <div class="wrapper">
+        <h2 class="st-events__title">
+          Các sự kiện đang diễn ra        </h2>
+      </div>
+      
+  <div class="owl-carousel wrapper">
+          
+              <a href="https://pingoal.fconline.garena.vn/" class="st-events__item" target="_blank">
+          <!-- Image -->
+          <div class="st-events__item--image">
+            <img width="320" height="320" src="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-PinGoal-003-24UCL-KV-1200x1200-1-320x320.png" class="attachment-fco_320x320 size-fco_320x320 wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-PinGoal-003-24UCL-KV-1200x1200-1-320x320.png 320w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-PinGoal-003-24UCL-KV-1200x1200-1-300x300.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-PinGoal-003-24UCL-KV-1200x1200-1-1024x1024.png 1024w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-PinGoal-003-24UCL-KV-1200x1200-1-150x150.png 150w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-PinGoal-003-24UCL-KV-1200x1200-1-768x768.png 768w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-PinGoal-003-24UCL-KV-1200x1200-1.png 1200w" sizes="(max-width: 320px) 100vw, 320px" />          </div>
+
+          <!-- Title -->
+          <h4 class="st-events__item--name">
+            PIN GOAL          </h4>
+
+          <!-- Description -->
+          <div class="st-events__item--description">
+            Chỉ với lượt chơi FREE mỗi ngày, anh em đừng bỏ lỡ cơ hội sở hữu dàn sao 25TOTY & 24UCL cực HOT và hàng tỷ BP giá trị nhé, chơi ngay!          </div>
+        </a>
+                
+              <a href="https://fconline.garena.vn/big-offline-fc-online-tour-2025/" class="st-events__item" target="_blank">
+          <!-- Image -->
+          <div class="st-events__item--image">
+            <img width="320" height="320" src="https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-1-320x320.png" class="attachment-fco_320x320 size-fco_320x320 wp-post-image" alt="" decoding="async" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-1-320x320.png 320w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-1-300x300.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-1-1024x1024.png 1024w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-1-150x150.png 150w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-1-768x768.png 768w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-1.png 1200w" sizes="(max-width: 320px) 100vw, 320px" />          </div>
+
+          <!-- Title -->
+          <h4 class="st-events__item--name">
+            FC ONLINE TOUR 2025          </h4>
+
+          <!-- Description -->
+          <div class="st-events__item--description">
+            Chuỗi sự kiện Big Offline cộng đồng các tỉnh, thành trên toàn quốc được diễn ra từ ngày 16.03.2025.          </div>
+        </a>
+                
+              <a href="https://fconline.garena.vn/tich-luy-chuyen-so-fc-t03-2025/" class="st-events__item" target="_blank">
+          <!-- Image -->
+          <div class="st-events__item--image">
+            <img width="320" height="320" src="https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-8-320x320.png" class="attachment-fco_320x320 size-fco_320x320 wp-post-image" alt="" decoding="async" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-8-320x320.png 320w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-8-300x300.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-8-1024x1024.png 1024w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-8-150x150.png 150w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-8-768x768.png 768w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-8.png 1200w" sizes="(max-width: 320px) 100vw, 320px" />          </div>
+
+          <!-- Title -->
+          <h4 class="st-events__item--name">
+            TÍCH LŨY CHUYỂN SÒ THÁNG 03.2025          </h4>
+
+          <!-- Description -->
+          <div class="st-events__item--description">
+            Từ ngày 01.03 - 31.03, sự kiện Tích luỹ chuyển sò FC tháng 03 được ra mắt nhằm giúp các HLV mang về thêm nhiều phần quà miễn phí          </div>
+        </a>
+                
+              <a href="https://luckyball.fconline.garena.vn/" class="st-events__item" target="_blank">
+          <!-- Image -->
+          <div class="st-events__item--image">
+            <img width="320" height="320" src="https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-12-320x320.png" class="attachment-fco_320x320 size-fco_320x320 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-12-320x320.png 320w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-12-300x300.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-12-1024x1024.png 1024w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-12-150x150.png 150w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-12-768x768.png 768w, https://fconline.garena.vn/wp-content/uploads/2025/03/1200x1200-12.png 1200w" sizes="auto, (max-width: 320px) 100vw, 320px" />          </div>
+
+          <!-- Title -->
+          <h4 class="st-events__item--name">
+            LUCKY BALL          </h4>
+
+          <!-- Description -->
+          <div class="st-events__item--description">
+            Lắc bóng hay và săn siêu phẩm mạ vàng liền tay với RMA, FCA (+8) và dàn sao quốc dân 25TOTY, 24UCL xịn sò, chơi ngay!          </div>
+        </a>
+                
+              <a href="https://fvpl.fconline.garena.vn/" class="st-events__item" target="_blank">
+          <!-- Image -->
+          <div class="st-events__item--image">
+            <img width="320" height="320" src="https://fconline.garena.vn/wp-content/uploads/2025/02/KVDAU_FVPLSP25_1200x1200-320x320.png" class="attachment-fco_320x320 size-fco_320x320 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/KVDAU_FVPLSP25_1200x1200-320x320.png 320w, https://fconline.garena.vn/wp-content/uploads/2025/02/KVDAU_FVPLSP25_1200x1200-300x300.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/KVDAU_FVPLSP25_1200x1200-1024x1024.png 1024w, https://fconline.garena.vn/wp-content/uploads/2025/02/KVDAU_FVPLSP25_1200x1200-150x150.png 150w, https://fconline.garena.vn/wp-content/uploads/2025/02/KVDAU_FVPLSP25_1200x1200-768x768.png 768w, https://fconline.garena.vn/wp-content/uploads/2025/02/KVDAU_FVPLSP25_1200x1200.png 1200w" sizes="auto, (max-width: 320px) 100vw, 320px" />          </div>
+
+          <!-- Title -->
+          <h4 class="st-events__item--name">
+            [SỰ KIỆN ĐỒNG HÀNH FVPL SPRING 2025] NÂNG CẤP TUYỂN THỦ          </h4>
+
+          <!-- Description -->
+          <div class="st-events__item--description">
+            Tham gia dự đoán chuẩn xác đội tuyển chiến thắng mỗi trận đấu để có cơ hội rinh thêm giải đặc biệt 1000 FC, 500 FC cùng ICON TM Coin cực kỳ hấp dẫn.          </div>
+        </a>
+                
+              <a href="https://fconline.garena.vn/so-tay-hlv-mua-12/" class="st-events__item" target="_blank">
+          <!-- Image -->
+          <div class="st-events__item--image">
+            <img width="320" height="320" src="https://fconline.garena.vn/wp-content/uploads/2025/03/SOTAYHLV_MUA10_1200x1200-320x320.png" class="attachment-fco_320x320 size-fco_320x320 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/SOTAYHLV_MUA10_1200x1200-320x320.png 320w, https://fconline.garena.vn/wp-content/uploads/2025/03/SOTAYHLV_MUA10_1200x1200-300x300.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/SOTAYHLV_MUA10_1200x1200-1024x1024.png 1024w, https://fconline.garena.vn/wp-content/uploads/2025/03/SOTAYHLV_MUA10_1200x1200-150x150.png 150w, https://fconline.garena.vn/wp-content/uploads/2025/03/SOTAYHLV_MUA10_1200x1200-768x768.png 768w, https://fconline.garena.vn/wp-content/uploads/2025/03/SOTAYHLV_MUA10_1200x1200.png 1200w" sizes="auto, (max-width: 320px) 100vw, 320px" />          </div>
+
+          <!-- Title -->
+          <h4 class="st-events__item--name">
+            Sổ Tay HLV Mùa 12          </h4>
+
+          <!-- Description -->
+          <div class="st-events__item--description">
+            Sổ Tay HLV trở lại trong tháng 3.2025 cùng hệ thống quà nâng cấp chất lượng với mùa thẻ mới 24UCL cực hot trên TTCN          </div>
+        </a>
+                
+              <a href="https://monthly.fconline.garena.vn/" class="st-events__item" target="_blank">
+          <!-- Image -->
+          <div class="st-events__item--image">
+            <img width="320" height="320" src="https://fconline.garena.vn/wp-content/uploads/2023/09/2025-MonthPack-T3-KV-1200x1200-1-320x320.png" class="attachment-fco_320x320 size-fco_320x320 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2023/09/2025-MonthPack-T3-KV-1200x1200-1-320x320.png 320w, https://fconline.garena.vn/wp-content/uploads/2023/09/2025-MonthPack-T3-KV-1200x1200-1-300x300.png 300w, https://fconline.garena.vn/wp-content/uploads/2023/09/2025-MonthPack-T3-KV-1200x1200-1-1024x1024.png 1024w, https://fconline.garena.vn/wp-content/uploads/2023/09/2025-MonthPack-T3-KV-1200x1200-1-150x150.png 150w, https://fconline.garena.vn/wp-content/uploads/2023/09/2025-MonthPack-T3-KV-1200x1200-1-768x768.png 768w, https://fconline.garena.vn/wp-content/uploads/2023/09/2025-MonthPack-T3-KV-1200x1200-1.png 1200w" sizes="auto, (max-width: 320px) 100vw, 320px" />          </div>
+
+          <!-- Title -->
+          <h4 class="st-events__item--name">
+            MONTHLY PACKAGE T3.2025          </h4>
+
+          <!-- Description -->
+          <div class="st-events__item--description">
+            Monthly Package tháng 3.2025 với vô số vật phẩm ưu đãi giảm giá sâu, săn ngay kẻo lỡ!          </div>
+        </a>
+                
+              <a href="https://hocvien.fconline.garena.vn/" class="st-events__item" target="_blank">
+          <!-- Image -->
+          <div class="st-events__item--image">
+            <img width="320" height="320" src="https://fconline.garena.vn/wp-content/uploads/2024/05/KV_HOC-VIEN-FC-ONLINE_1080-320x320.png" class="attachment-fco_320x320 size-fco_320x320 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2024/05/KV_HOC-VIEN-FC-ONLINE_1080-320x320.png 320w, https://fconline.garena.vn/wp-content/uploads/2024/05/KV_HOC-VIEN-FC-ONLINE_1080-300x300.png 300w, https://fconline.garena.vn/wp-content/uploads/2024/05/KV_HOC-VIEN-FC-ONLINE_1080-1024x1024.png 1024w, https://fconline.garena.vn/wp-content/uploads/2024/05/KV_HOC-VIEN-FC-ONLINE_1080-150x150.png 150w, https://fconline.garena.vn/wp-content/uploads/2024/05/KV_HOC-VIEN-FC-ONLINE_1080-768x768.png 768w, https://fconline.garena.vn/wp-content/uploads/2024/05/KV_HOC-VIEN-FC-ONLINE_1080.png 1200w" sizes="auto, (max-width: 320px) 100vw, 320px" />          </div>
+
+          <!-- Title -->
+          <h4 class="st-events__item--name">
+            HỌC VIỆN FC ONLINE          </h4>
+
+          <!-- Description -->
+          <div class="st-events__item--description">
+            Cơ hội thăng cấp sức mạnh đội hình cùng dàn siêu phẩm EBS, CAP mạ vàng hoàn toàn miễn phí dành cho người chơi mới, tham gia ngay!          </div>
+        </a>
+            </div>
+    </section>
+  
+  <!-- News -->
+      <section class="st-news">
+      <div class="st-news__main">
+        <div class="wrapper">
+          <h2 class="st-news__title">Các tin nổi bật</h2>
+
+          <!-- Categories -->
+          <ul class="st-news__tabs nav">
+                          <li>
+                <a
+                  href="#nav-0"
+                  class="active"
+                  data-toggle="tab"
+                >Sự kiện</a>
+              </li>
+                          <li>
+                <a
+                  href="#nav-1"
+                  class=""
+                  data-toggle="tab"
+                >Vật phẩm</a>
+              </li>
+                          <li>
+                <a
+                  href="#nav-2"
+                  class=""
+                  data-toggle="tab"
+                >Giải đấu</a>
+              </li>
+                          <li>
+                <a
+                  href="#nav-3"
+                  class=""
+                  data-toggle="tab"
+                >Dev Notes</a>
+              </li>
+                        <li class="view-more">
+              <a href="https://fconline.garena.vn/tin-tuc">
+                <i class="ic-view-more"></i> Xem tất cả
+              </a>
+            </li>
+          </ul>
+
+          <!-- POSTS -->
+          <div class="tab-content">
+                                        <div class="tab-pane fade show active" id="nav-0">
+                                  <div class="st-news__posts">
+                                                                                                        <a
+                        href="https://fconline.garena.vn/nhan-ve-ck-fvpl-spring-2025/"
+                        class="st-news__post"
+                        title="CÁCH THỨC NHẬN VÉ THAM GIA CHUNG KẾT FVPL SPRING 2025"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_Slide1_FVPLS24-VongCK_326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_Slide1_FVPLS24-VongCK_326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_Slide1_FVPLS24-VongCK_326x183-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_Slide1_FVPLS24-VongCK_326x183-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              21/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            CÁCH THỨC NHẬN VÉ THAM GIA CHUNG KẾT FVPL SPRING 2025                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            11h00 ngày 23.03.2025, các HLV đến Vikings Hoàng Văn Thụ và Star Gaming Hòa Hưng để nhận vé chung kết FVPL Spring 2025 miễn phí                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/chuyen-so-20-03-2025/"
+                        class="st-news__post"
+                        title="[Sự Kiện Chuyển Sò 20.03]: Sở Hữu Ngay Loạt Sao 24UCL Cùng Bom Tấn +8 Miễn Phí"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-ChuyenSo-T2-24UCL-326x200-1.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-ChuyenSo-T2-24UCL-326x200-1.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-ChuyenSo-T2-24UCL-326x200-1-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-ChuyenSo-T2-24UCL-326x200-1-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              20/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [Sự Kiện Chuyển Sò 20.03]: Sở Hữu Ngay Loạt Sao 24UCL Cùng Bom Tấn +8 Miễn Phí                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 20.03 - 23.03, sự kiện chuyển sò sẽ chính thức mắt để giúp các HLV dễ dàng sở hữu ngay cho mình dàn sao 24UCL hoàn toàn miễn phí.                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/pingoal-t3-2024/"
+                        class="st-news__post"
+                        title="[PinGoal T3] Trổ Tài Phát Bóng &#8211; Săn Dàn Sao Mạ Vàng Cực Nóng"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-PinGoal-003-24UCL-KV-326x183-1.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-PinGoal-003-24UCL-KV-326x183-1.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-PinGoal-003-24UCL-KV-326x183-1-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-PinGoal-003-24UCL-KV-326x183-1-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              19/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [PinGoal T3] Trổ Tài Phát Bóng &#8211; Săn Dàn Sao Mạ Vàng Cực Nóng                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Sự kiện mang đến vô vàn cơ hội sở hữu các phần quà cực chất như RMA, HW, CC mạ vàng cùng hàng nghìn FC vô cùng giá trị, tìm hiểu ngay!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/creator-show-gap-sao-cuoi-tuan/"
+                        class="st-news__post"
+                        title="[CREATOR SHOW] GẶP SAO CUỐI TUẦN: CÙNG SAO QUẨY &#8211; VUI HẾT SẨY"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_GioiThieuChuongTrinh_slide1_GapSaoCuoiTuan_326x183.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_GioiThieuChuongTrinh_slide1_GapSaoCuoiTuan_326x183.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_GioiThieuChuongTrinh_slide1_GapSaoCuoiTuan_326x183-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_GioiThieuChuongTrinh_slide1_GapSaoCuoiTuan_326x183-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              18/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [CREATOR SHOW] GẶP SAO CUỐI TUẦN: CÙNG SAO QUẨY &#8211; VUI HẾT SẨY                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            FC Online xin giới thiệu một series chương trình giải trí hoàn toàn mới. Nơi quy tụ các Creator Ngôi Sao Sân Cỏ hot hit của FC Online sẽ tham gia các thử thách, trò chơi thú vị. Hứa hẹn không chỉ ...                          </div>
+                        </div>
+                      </a>
+                                                                                                                                                          <a
+                        href="https://fconline.garena.vn/social-challenge-khoanh-khac-gan-ket/"
+                        class="st-news__post"
+                        title="“KHOẢNH KHẮC GẮN KẾT” &#8211; SOCIAL CHALLENGE ĐỒNG HÀNH CÙNG CHUỖI SỰ KIỆN BIG OFFLINE TOÀN QUỐC FC ONLINE TOUR 2025"
+                        data-page="2"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/Thumb-social.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/Thumb-social.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/Thumb-social-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/Thumb-social-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              15/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            “KHOẢNH KHẮC GẮN KẾT” &#8211; SOCIAL CHALLENGE ĐỒNG HÀNH CÙNG CHUỖI SỰ KIỆN BIG OFFLINE TOÀN QUỐC FC ONLINE TOUR 2025                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            FC Online Tour 2025 &#8211; chuỗi sự kiện Big Offline toàn quốc với mong muốn kết nối cộng đồng người chơi ở các tỉnh thành trên cả nước, sẽ chính thức được khởi động vào ngày 16.03 tại Bình ...                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/dac-huan-25toty-chang-2/"
+                        class="st-news__post"
+                        title="[Đặc Huấn 25TOTY] Tổng Kết Chặng 2: Vòng Kỹ Thuật"
+                        data-page="2"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_DacHuan_326x183.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_DacHuan_326x183.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_DacHuan_326x183-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_DacHuan_326x183-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              15/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [Đặc Huấn 25TOTY] Tổng Kết Chặng 2: Vòng Kỹ Thuật                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Xin chúc mừng các HLV nằm trong Top 50 bảng xếp hạng chặng 2 nhận những siêu quà hấp dẫn, tìm hiểu ngay!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/dac-huan-25-toty/"
+                        class="st-news__post"
+                        title="[Đặc Huấn 25 TOTY] Cơ Hội Duy Nhất Sở Hữu Dàn Sao 25TOTY &#038; 25TOTY-N Mạ Vàng Giới Hạn"
+                        data-page="2"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/01/KV_DacHuan24TOTY_326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/01/KV_DacHuan24TOTY_326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/01/KV_DacHuan24TOTY_326x183-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/01/KV_DacHuan24TOTY_326x183-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              15/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [Đặc Huấn 25 TOTY] Cơ Hội Duy Nhất Sở Hữu Dàn Sao 25TOTY &#038; 25TOTY-N Mạ Vàng Giới Hạn                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Sự kiện Đặc huấn 25TOTY diễn ra trong thời gian ra mắt mùa thẻ 25TOTY, 25TOTY-N và khép lại vào ngày cuối cùng trước khi giới hạn mùa thẻ này, các HLV đừng bỏ lỡ nhé!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/su-kien-chuyen-so-mc-t03-2025/"
+                        class="st-news__post"
+                        title="[Sự Kiện Chuyển Sò MC 13.03]: 100% Sở Hữu Dàn Sao 24UCL Cùng Bom Tấn +8 Miễn Phí"
+                        data-page="2"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-ChuyenSo-T2-24UCL-326x200-1.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-ChuyenSo-T2-24UCL-326x200-1.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-ChuyenSo-T2-24UCL-326x200-1-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-ChuyenSo-T2-24UCL-326x200-1-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              13/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [Sự Kiện Chuyển Sò MC 13.03]: 100% Sở Hữu Dàn Sao 24UCL Cùng Bom Tấn +8 Miễn Phí                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            từ ngày 13.03 - 16.03, Sự kiện chuyển sò MC sẽ được ra mắt nhằm mang đem tới loạt vật phẩm miễn phí cho các HLV.                          </div>
+                        </div>
+                      </a>
+                                                                                                                                                          <a
+                        href="https://fconline.garena.vn/su-kien-chuyen-so-150-t03-2025/"
+                        class="st-news__post"
+                        title="[Sự Kiện Đặc Biệt Tháng 03]: Ưu Đãi Lên Đến 150% Khi Chuyển Sò Sang FC"
+                        data-page="3"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-5.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-5.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-5-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-5-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              13/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [Sự Kiện Đặc Biệt Tháng 03]: Ưu Đãi Lên Đến 150% Khi Chuyển Sò Sang FC                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 13.03, Sự kiện đặc biệt tháng 03 sẽ chính thức xuất hiện với ưu đãi lên đến 150% khi chuyển sò sang FC cùng với đó là ưu đãi đặc biệt cho những người chơi chưa từng tham gia chuyển sò.                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/vqtg-t3-2025/"
+                        class="st-news__post"
+                        title="[Vòng Quanh Thế Giới 3.0] Chiêu Mộ Dàn Sao Quốc Dân 24UCL &#038; 25TOTY Chỉ Với Lượt FREE Mỗi Ngày"
+                        data-page="3"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-2.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-2.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-2-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-2-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              12/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [Vòng Quanh Thế Giới 3.0] Chiêu Mộ Dàn Sao Quốc Dân 24UCL &#038; 25TOTY Chỉ Với Lượt FREE Mỗi Ngày                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Vô vàn phần quà hấp dẫn với sự xuất hiện của huyền thoại ICON The Moment & CC, 23HW, LN mạ vàng cực khủng., tìm hiểu ngay!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/uu-dai-nap-the-shopeepay/"
+                        class="st-news__post"
+                        title="NẠP THẺ GIẢI TRÍ, XÍ NGAY ƯU ĐÃI SHOPEEPAY!"
+                        data-page="3"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img src="https://fconline.garena.vn/wp-content/uploads/2025/03/326x200-5.png">
+                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              07/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            NẠP THẺ GIẢI TRÍ, XÍ NGAY ƯU ĐÃI SHOPEEPAY!                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Cập nhật ngay ưu đãi tháng 3 của ShopeePay: Giảm 15% tối đa 50.000Đ cho lần đầu tiên thanh toán bằng ShopeePay trên trang napthe.vn và giảm 5.000Đ cho các đơn từ 10.000Đ. Nhanh tay đăng nhập vào ...                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/su-kien-ghi-ban-quyet-dinh/"
+                        class="st-news__post"
+                        title="[SỰ KIỆN MIỄN PHÍ] GHI BÀN QUYẾT ĐỊNH: SĂN HÀNG LOẠT SIÊU PHẨM ICON TM, 25TOTY MỖI NGÀY"
+                        data-page="3"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/Copy-of-KV_AmazingGoal-032025_326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/Copy-of-KV_AmazingGoal-032025_326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/Copy-of-KV_AmazingGoal-032025_326x183-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/Copy-of-KV_AmazingGoal-032025_326x183-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              06/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [SỰ KIỆN MIỄN PHÍ] GHI BÀN QUYẾT ĐỊNH: SĂN HÀNG LOẠT SIÊU PHẨM ICON TM, 25TOTY MỖI NGÀY                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Xin chào các HLV,  Chỉ cần sút bóng và ghi bàn, các HLV có cơ hội rinh về hàng loạt các siêu sao mùa thẻ ICON TM, 25TOTY cùng hàng chục tỷ BP.  Rất nhiều các món quà hấp dẫn đang chờ anh em rinh ...                          </div>
+                        </div>
+                      </a>
+                                                                                                                                                          <a
+                        href="https://fconline.garena.vn/su-kien-chuyen-so-06-03-2025/"
+                        class="st-news__post"
+                        title="[Sự Kiện Chuyển Sò 06.03]: Sở Hữu Ngay Loạt 25TOTY, 24UCL Hoàn Toàn Miễn Phí"
+                        data-page="4"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-ChuyenSo-T3-VuiTuoi-326x200-1.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-ChuyenSo-T3-VuiTuoi-326x200-1.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-ChuyenSo-T3-VuiTuoi-326x200-1-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-ChuyenSo-T3-VuiTuoi-326x200-1-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              06/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [Sự Kiện Chuyển Sò 06.03]: Sở Hữu Ngay Loạt 25TOTY, 24UCL Hoàn Toàn Miễn Phí                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            từ ngày 06.03 - 09.03, Sự kiện chuyển sò sẽ chính thức mắt để giúp các HLV dễ dàng sở hữu ngay cho mình dàn sao 25TOTY, 24UCL hoàn toàn miễn phí.                           </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/monthly-package-t3-2025/"
+                        class="st-news__post"
+                        title="[Monthly Package T3.2025] Săn Siêu Phẩm CC Mạ Vàng Cùng Hàng Trăm Tỷ BP Mỗi Ngày"
+                        data-page="4"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2023/09/2025-MonthPack-T3-KV-326x183-1.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2023/09/2025-MonthPack-T3-KV-326x183-1.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2023/09/2025-MonthPack-T3-KV-326x183-1-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2023/09/2025-MonthPack-T3-KV-326x183-1-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              04/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [Monthly Package T3.2025] Săn Siêu Phẩm CC Mạ Vàng Cùng Hàng Trăm Tỷ BP Mỗi Ngày                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Sự kiện Monthly Package trở lại trong tháng 3.2025 với loạt vật phẩm ưu đãi giảm giá cực kỳ sâu đến 75%, sắm ngay kẻo lỡ                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/so-tay-hlv-mua-12/"
+                        class="st-news__post"
+                        title="[Sổ Tay HLV Mùa 12] Sở Hữu Ngay Dàn Sao 24UCL Cực Hot"
+                        data-page="4"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/SOTAYHLV_MUA10_326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/SOTAYHLV_MUA10_326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/SOTAYHLV_MUA10_326x183-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/SOTAYHLV_MUA10_326x183-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              04/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [Sổ Tay HLV Mùa 12] Sở Hữu Ngay Dàn Sao 24UCL Cực Hot                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Sổ Tay HLV đã trở lại trong tháng 3.2025 với hệ thống quà nâng cấp chất lượng với vô số phần quà hấp dẫn                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/bi-lac-t3-2025/"
+                        class="st-news__post"
+                        title="[Bi Lắc T3] Quẩy Bi Lắc Cực Hay &#8211; Săn Ngay Siêu Sao 25TOTY &#038; 25TOTY-N Chỉ Với Lượt Chơi FREE"
+                        data-page="4"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-BiLac-003-24UCL-KV-326x183-1.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-BiLac-003-24UCL-KV-326x183-1.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-BiLac-003-24UCL-KV-326x183-1-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-BiLac-003-24UCL-KV-326x183-1-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              04/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [Bi Lắc T3] Quẩy Bi Lắc Cực Hay &#8211; Săn Ngay Siêu Sao 25TOTY &#038; 25TOTY-N Chỉ Với Lượt Chơi FREE                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Sự kiện mang đến siêu phẩm mạ vàng cực khủng với RMA, 23HW, CC cùng dàn huyền thoại ICON TM cực HOT, tìm hiểu ngay!                          </div>
+                        </div>
+                      </a>
+                                                                                                                                                          <a
+                        href="https://fconline.garena.vn/big-offline-fc-online-tour-2025/"
+                        class="st-news__post"
+                        title="[BIG OFFLINE] CHUỖI SỰ KIỆN BIG OFFLINE TOÀN QUỐC: FC ONLINE TOUR 2025 &#8211; HÀNH TRÌNH ĐAM MÊ, CỘNG ĐỒNG GẮN KẾT"
+                        data-page="5"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/BUSTOUR_KV_1920x1080-326x183.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/BUSTOUR_KV_1920x1080-326x183.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/BUSTOUR_KV_1920x1080-300x169.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/BUSTOUR_KV_1920x1080-1024x576.jpg 1024w, https://fconline.garena.vn/wp-content/uploads/2025/03/BUSTOUR_KV_1920x1080-768x432.jpg 768w, https://fconline.garena.vn/wp-content/uploads/2025/03/BUSTOUR_KV_1920x1080-1536x864.jpg 1536w, https://fconline.garena.vn/wp-content/uploads/2025/03/BUSTOUR_KV_1920x1080-213x119.jpg 213w, https://fconline.garena.vn/wp-content/uploads/2025/03/BUSTOUR_KV_1920x1080.jpg 1920w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              03/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [BIG OFFLINE] CHUỖI SỰ KIỆN BIG OFFLINE TOÀN QUỐC: FC ONLINE TOUR 2025 &#8211; HÀNH TRÌNH ĐAM MÊ, CỘNG ĐỒNG GẮN KẾT                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Với mong muốn tăng cường sự gắn kết trong cộng đồng người chơi FC Online không chỉ trong game mà còn ra ngoài đời thực. Đồng thời, thể hiện tinh thần đoàn kết và nhiệt huyết của một cộng đồng FC ...                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/vip-t03-2025/"
+                        class="st-news__post"
+                        title="Cập Nhật VIP Tháng 03.2025"
+                        data-page="5"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/UPDATE-QUA-VIP_326.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/UPDATE-QUA-VIP_326.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/UPDATE-QUA-VIP_326-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/UPDATE-QUA-VIP_326-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              01/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Cập Nhật VIP Tháng 03.2025                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 01.03 - 31.03, VIP tháng 03 sẽ chính thức xuất hiện nhằm mang tới những vật phẩm mới cho các HLV sau những đóng góp ở tháng qua.                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/luckyball-t3-2025/"
+                        class="st-news__post"
+                        title="[Lucky Ball] Lắc Bóng Hay – Nhận Siêu Phẩm RMA, FCA Mạ Vàng Liền Tay"
+                        data-page="5"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/326x200-326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/326x200-326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/326x200-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              01/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [Lucky Ball] Lắc Bóng Hay – Nhận Siêu Phẩm RMA, FCA Mạ Vàng Liền Tay                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                             Lắc bóng hay và săn ngay dàn siêu phẩm mạ vàng liền tay với RMA, FCA (+8), tìm hiểu ngay!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/tich-luy-chuyen-so-fc-t03-2025/"
+                        class="st-news__post"
+                        title="Tích Luỹ Chuyển Sò FC Tháng 03.2025: Chuyển Sò Càng Nhiều, Nhận Ngay Loạt Sao Miễn Phí"
+                        data-page="5"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="300" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-2-300x183.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              01/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Tích Luỹ Chuyển Sò FC Tháng 03.2025: Chuyển Sò Càng Nhiều, Nhận Ngay Loạt Sao Miễn Phí                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 01.03 - 31.03, sự kiện Tích luỹ chuyển sò FC tháng 03 được ra mắt nhằm giúp các HLV mang về thêm nhiều phần quà khi đạt mốc chuyển sò trong tháng bên cạnh các ưu đãi chuyển sò khác.                          </div>
+                        </div>
+                      </a>
+                                                                                                                                </div>
+
+                  <div class="st-news__pagination">
+                    <div class="pagination">
+                    </div>
+                  </div>
+
+                                              </div>
+                                        <div class="tab-pane fade " id="nav-1">
+                                  <div class="st-news__posts">
+                                                                                                        <a
+                        href="https://fconline.garena.vn/goi-ty-phu-bp-dac-biet-t03-2025/"
+                        class="st-news__post"
+                        title="Gói Tỷ Phú BP Đặc Biệt Tháng 03.2025: Rinh Về Tối Đa 700 Tỷ BP Chỉ Từ 90 FC"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/SuperSaleT3_328x183-326x183.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/SuperSaleT3_328x183-326x183.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/SuperSaleT3_328x183-300x167.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/SuperSaleT3_328x183-213x119.jpg 213w, https://fconline.garena.vn/wp-content/uploads/2025/03/SuperSaleT3_328x183.jpg 328w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              17/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Gói Tỷ Phú BP Đặc Biệt Tháng 03.2025: Rinh Về Tối Đa 700 Tỷ BP Chỉ Từ 90 FC                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 17.03 - 31.03, Gói tỷ phú BP đặc biệt tháng 03 sẽ được ra mắt nhằm đáp ứng những mong mỏi đó của các HLV. Hãy cùng khám phá chi tiết ngay thôi nào!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/goi-may-man-t03-2025/"
+                        class="st-news__post"
+                        title="Gói May Mắn Tháng 03: Săn Đón ICON TM Hay Loạt Sao +8 Nghìn Tỷ BP Chỉ Từ 100 FC"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/Goi-MM-T3-SUD_326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/Goi-MM-T3-SUD_326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/Goi-MM-T3-SUD_326x183-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/Goi-MM-T3-SUD_326x183-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              13/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Gói May Mắn Tháng 03: Săn Đón ICON TM Hay Loạt Sao +8 Nghìn Tỷ BP Chỉ Từ 100 FC                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 13.03 - 31.03, Gói may mắn tháng 03 sẽ ra mắt để giúp các HLV sở hữu cho mình những bom tấn +8 xịn sò với mức đầu tư dễ chịu.                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/goi-khoi-dong-lite-t03-2025/"
+                        class="st-news__post"
+                        title="Gói Khởi Động Lite Tháng 03.2025: Sở Hữu Loạt Sao 25TOTY, 24UCL Chỉ Với 100 FC"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/GOIKHOIDONG_LITE_T11_326x183.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/GOIKHOIDONG_LITE_T11_326x183.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/GOIKHOIDONG_LITE_T11_326x183-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/GOIKHOIDONG_LITE_T11_326x183-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              10/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Gói Khởi Động Lite Tháng 03.2025: Sở Hữu Loạt Sao 25TOTY, 24UCL Chỉ Với 100 FC                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 10.03 - 31.03, Gói khởi động Lite tháng 03 sẽ được cho ra mắt nhằm giúp các HLV sở hữu bom tấn cho riêng mình với mức giá vô cùng dễ chịu.                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/goi-khoi-dong-t03-2025/"
+                        class="st-news__post"
+                        title="Gói Khởi Động Tháng 03: Săn Đón Loạt Sao 25TOTY, 24UCL &#038; bom tấn +8 Chỉ Với 200 FC"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-Pack-Starter-T03-300x183-1.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/2025-Pack-Starter-T03-300x183-1.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-Pack-Starter-T03-300x183-1-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/2025-Pack-Starter-T03-300x183-1-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              05/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Gói Khởi Động Tháng 03: Săn Đón Loạt Sao 25TOTY, 24UCL &#038; bom tấn +8 Chỉ Với 200 FC                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            từ ngày 05.03 - 31.03, Gói khởi động tháng 03 được ra mắt với mong muốn đem tới cho các HLV dàn sao quốc dân với mức đầu tư “hạt dẻ”. Hãy cùng khám phá chi tiết ngay thôi nào!                          </div>
+                        </div>
+                      </a>
+                                                                                                                                                          <a
+                        href="https://fconline.garena.vn/bo-doi-bp-sieu-cap-03-2025/"
+                        class="st-news__post"
+                        title="Bộ Đôi Vật Phẩm BP Siêu Cấp Tháng 03.2025: Sở Hữu Liền Tay Hàng Nghìn Tỷ BP Cùng Loạt Sao 25TOTY, 24UCL"
+                        data-page="2"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-9.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-9.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-9-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-9-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              01/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Bộ Đôi Vật Phẩm BP Siêu Cấp Tháng 03.2025: Sở Hữu Liền Tay Hàng Nghìn Tỷ BP Cùng Loạt Sao 25TOTY, 24UCL                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 01.03 - 31.03, Bộ đôi vật phẩm BP siêu cấp tháng 03 sẽ được ra mắt nhằm đem tới dàn sao quốc dân cùng hàng loạt BP cực khủng để các HLV có thể xây dựng đội hình trong mơ                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/bo-doi-sieu-cap-t03-2025/"
+                        class="st-news__post"
+                        title="Bộ Đôi Vật Phẩm Siêu Cấp Tháng 03.2025: Săn Đón Loạt Sao 25TOTY, 24UCL Cùng Bom Tấn +8"
+                        data-page="2"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-3.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-3.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-3-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-3-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              01/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Bộ Đôi Vật Phẩm Siêu Cấp Tháng 03.2025: Săn Đón Loạt Sao 25TOTY, 24UCL Cùng Bom Tấn +8                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 01.03 - 31.03.2025, Bộ đôi vật phẩm siêu cấp tháng 03 sẽ được ra mắt nhằm đem tới hàng loạt gói cầu thủ xịn sò mùa thẻ quốc dân để các HLV có thể xây dựng đội hình trong mơ.                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/goi-da-dung-t02-2025/"
+                        class="st-news__post"
+                        title="Gói Đa Dụng Tháng 02.2025: Sở Hữu Thẻ Nâng Cấp Lại, SVIP Chỉ Với 50 FC"
+                        data-page="2"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="300" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-Pack-Utility-T2-300x183-1.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              25/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Gói Đa Dụng Tháng 02.2025: Sở Hữu Thẻ Nâng Cấp Lại, SVIP Chỉ Với 50 FC                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 25.02 - 28.02, Gói đa dụng tháng 02 sẽ chính thức xuất hiện nhằm mang đến cho các HLV loạt vật phẩm cần thiết khác. Hãy cùng khám phá chi tiết ngay thôi nào!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/goi-may-man-sieu-cap-t02-2025/"
+                        class="st-news__post"
+                        title="Gói May Mắn Siêu Cấp Tháng 02.2025: Săn Siêu Sao +8 Chục Nghìn Tỷ BP Chỉ Từ 250 FC"
+                        data-page="2"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/326183-326x183.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/326183-326x183.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/326183-300x167.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/326183-213x119.jpg 213w, https://fconline.garena.vn/wp-content/uploads/2025/02/326183.jpg 328w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              22/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Gói May Mắn Siêu Cấp Tháng 02.2025: Săn Siêu Sao +8 Chục Nghìn Tỷ BP Chỉ Từ 250 FC                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 22.02 - 28.02, Gói may mắn siêu cấp tháng 02 sẽ chính thức được ra mắt nhằm giúp các HLV sở hữu cho mình loạt siêu sao ấy với mức đầu tư vô cùng dễ chịu.                          </div>
+                        </div>
+                      </a>
+                                                                                                                                                          <a
+                        href="https://fconline.garena.vn/shop-cau-thu-t02-2025/"
+                        class="st-news__post"
+                        title="Shop Cầu Thủ Tháng 02.2025: 100% Sở Hữu Siêu Sao +8 Chỉ Từ 45 FC"
+                        data-page="3"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-ShopCauThu-T2-326x183-1.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-ShopCauThu-T2-326x183-1.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/2025-ShopCauThu-T2-326x183-1-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/2025-ShopCauThu-T2-326x183-1-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              19/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Shop Cầu Thủ Tháng 02.2025: 100% Sở Hữu Siêu Sao +8 Chỉ Từ 45 FC                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 19.02 - 28.02, Shop cầu thủ tháng 02 sẽ chính thức được ra mắt với mong muốn đem tới cho các HLV loạt gói cầu thủ xịn sò với mức đầu tư hợp lý. Hãy cùng khám phá chi tiết ngay thôi nào!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/goi-ty-phu-bp-dac-biet-t02-2024-2/"
+                        class="st-news__post"
+                        title="Gói Tỷ Phú BP Đặc Biệt Tháng 02.2025: Rinh Về Tối Đa 400 Tỷ BP Chỉ Từ 90 FC"
+                        data-page="3"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-LotteryBP-T02-2-103-326x183-1.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-LotteryBP-T02-2-103-326x183-1.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/2025-LotteryBP-T02-2-103-326x183-1-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/2025-LotteryBP-T02-2-103-326x183-1-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              16/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Gói Tỷ Phú BP Đặc Biệt Tháng 02.2025: Rinh Về Tối Đa 400 Tỷ BP Chỉ Từ 90 FC                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 16.02 - 28.02, Gói tỷ phú BP đặc biệt tháng 02 sẽ được ra mắt nhằm đáp ứng những mong mỏi đó của các HLV. Hãy cùng khám phá chi tiết ngay thôi nào!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/goi-may-man-t02-2025/"
+                        class="st-news__post"
+                        title="Gói May Mắn Tháng 02: Săn Đón ICON TM Hay Loạt Sao +8 Nghìn Tỷ BP Chỉ Từ 100 FC"
+                        data-page="3"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/326x183-1.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/326x183-1.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/326x183-1-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/326x183-1-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              13/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Gói May Mắn Tháng 02: Săn Đón ICON TM Hay Loạt Sao +8 Nghìn Tỷ BP Chỉ Từ 100 FC                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Xin chào các HLV, Sở hữu loạt sao mạ vàng từ các mùa thẻ quốc dân luôn là mong ước với nhiều anh em vào lúc này, tuy nhiên việc phải đầu tư nhiều BP đang là rào cản lớn ...                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/goi-khoi-dong-lite-t02-2025/"
+                        class="st-news__post"
+                        title="Gói Khởi Động Lite Tháng 02.2025: Sở Hữu Loạt Sao Quốc Dân Chỉ Với 100 FC"
+                        data-page="3"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/GOIKHOIDONGT2_326x183.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/GOIKHOIDONGT2_326x183.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/GOIKHOIDONGT2_326x183-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/GOIKHOIDONGT2_326x183-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              11/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Gói Khởi Động Lite Tháng 02.2025: Sở Hữu Loạt Sao Quốc Dân Chỉ Với 100 FC                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 11.02 - 28.02, Gói khởi động Lite tháng 02 sẽ được cho ra mắt nhằm giúp các HLV sở hữu bom tấn cho riêng mình với mức giá vô cùng dễ chịu.                          </div>
+                        </div>
+                      </a>
+                                                                                                                                                          <a
+                        href="https://fconline.garena.vn/goi-ty-phu-bp-t02-2025/"
+                        class="st-news__post"
+                        title="Gói Tỷ Phú BP Tháng 02.2025: Săn Đón 300 Tỷ BP Chỉ Với 70 FC"
+                        data-page="4"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-LotteryBP-T02-1-103-326x183-1.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-LotteryBP-T02-1-103-326x183-1.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/2025-LotteryBP-T02-1-103-326x183-1-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/2025-LotteryBP-T02-1-103-326x183-1-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              11/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Gói Tỷ Phú BP Tháng 02.2025: Săn Đón 300 Tỷ BP Chỉ Với 70 FC                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 11.02 - 28.02, Gói tỷ phú BP tháng 02 sẽ được ra mắt để giúp các HLV nhanh chóng sở hữu cho mình loạt gói BP cực khủng với mức đầu tư phải chăng để săn đón ...                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/goi-khoi-dong-t02-2025/"
+                        class="st-news__post"
+                        title="Gói Khởi Động Tháng 02: Săn Đón Loạt Sao 25TOTY, bom tấn +8 Chỉ Với 200 FC"
+                        data-page="4"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-Pack-T02-Starter-300x183-1-1.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-Pack-T02-Starter-300x183-1-1.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/2025-Pack-T02-Starter-300x183-1-1-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/2025-Pack-T02-Starter-300x183-1-1-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              04/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Gói Khởi Động Tháng 02: Săn Đón Loạt Sao 25TOTY, bom tấn +8 Chỉ Với 200 FC                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            từ ngày 04.02 - 28.02, Gói khởi động tháng 02 được ra mắt với mong muốn đem tới cho các HLV dàn sao quốc dân với mức đầu tư “hạt dẻ”. Hãy cùng khám phá chi tiết ngay thôi nào!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/bo-doi-vat-pham-mung-6-tet-2025/"
+                        class="st-news__post"
+                        title="Bộ Đôi Vật Phẩm Mùng 6 Tết Ất Tỵ 2025: Khai Xuân Như Ý Với Loạt Bom Tấn Mạ Vàng"
+                        data-page="4"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-Pack-T02-KhaiXuan-300x183-1.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-Pack-T02-KhaiXuan-300x183-1.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/2025-Pack-T02-KhaiXuan-300x183-1-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/2025-Pack-T02-KhaiXuan-300x183-1-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              03/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Bộ Đôi Vật Phẩm Mùng 6 Tết Ất Tỵ 2025: Khai Xuân Như Ý Với Loạt Bom Tấn Mạ Vàng                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ 03.02 - 07.02, Bộ đôi vật phẩm mùng 06 Tết Ất Tỵ 2025 sẽ chính thức xuất hiện nhằm giúp các HLV có thể khai xuân với hàng loạt vật phẩm ưng ý.                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/goi-khoi-dong-tet-2025/"
+                        class="st-news__post"
+                        title="Gói Khởi Động Tết: Cơ Hội Sở Hữu Loạt Sao 25TOTY Chỉ Với 400 FC"
+                        data-page="4"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="300" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/GOIKHOIDONGT12_300x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              02/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Gói Khởi Động Tết: Cơ Hội Sở Hữu Loạt Sao 25TOTY Chỉ Với 400 FC                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 02.02 (Mùng 5 Tết), Gói khởi động Tết sẽ được ra mắt nhằm giúp các HLV có thể khởi đầu với loạt gói cầu thủ xịn sò với mức giá phải chăng.                          </div>
+                        </div>
+                      </a>
+                                                                                                                                                          <a
+                        href="https://fconline.garena.vn/bo-doi-bp-sieu-cap-t02-2025/"
+                        class="st-news__post"
+                        title="Bộ Đôi Vật Phẩm BP Siêu Cấp Tháng 02.2025: Sở Hữu Liền Tay Hàng Nghìn Tỷ BP Cùng Loạt Sao 25TOTY"
+                        data-page="5"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-PackBP-T02-Gold-Diamond-326x183-1.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-PackBP-T02-Gold-Diamond-326x183-1.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/2025-PackBP-T02-Gold-Diamond-326x183-1-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/2025-PackBP-T02-Gold-Diamond-326x183-1-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              01/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Bộ Đôi Vật Phẩm BP Siêu Cấp Tháng 02.2025: Sở Hữu Liền Tay Hàng Nghìn Tỷ BP Cùng Loạt Sao 25TOTY                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Xin chào các HLV, Từ ngày 01.02 &#8211; 28.02, Bộ đôi vật phẩm BP siêu cấp tháng 02 sẽ được ra mắt nhằm đem tới dàn sao quốc dân cùng hàng loạt BP cực khủng để các HLV có thể xây dựng đội hình ...                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/bo-doi-sieu-cap-t02-2025/"
+                        class="st-news__post"
+                        title="Bộ Đôi Vật Phẩm Siêu Cấp Tháng 02.2025: Săn Đón Loạt Sao Loạt Sao 25TOTY, 25TOTY-N Cùng Bom Tấn +8"
+                        data-page="5"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-Pack-T02-Diamond-Gold326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/2025-Pack-T02-Diamond-Gold326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/2025-Pack-T02-Diamond-Gold326x183-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/2025-Pack-T02-Diamond-Gold326x183-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              01/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Bộ Đôi Vật Phẩm Siêu Cấp Tháng 02.2025: Săn Đón Loạt Sao Loạt Sao 25TOTY, 25TOTY-N Cùng Bom Tấn +8                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 01.02 - 28.02.2025, Bộ đôi vật phẩm siêu cấp tháng 02 sẽ được ra mắt nhằm đem tới hàng loạt gói cầu thủ xịn sò mùa thẻ quốc dân để các HLV có thể xây dựng đội hình trong mơ cho riêng ...                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/bo-doi-vat-pham-mung-4-tet-2025/"
+                        class="st-news__post"
+                        title="Bộ Đôi Vật Phẩm Mùng 4 Tết Ất Tỵ 2025: 100% Sở Hữu 25TOTY Cùng Loạt Vật Phẩm Cần Thiết"
+                        data-page="5"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/326x183-6.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/326x183-6.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/326x183-6-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/326x183-6-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              01/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Bộ Đôi Vật Phẩm Mùng 4 Tết Ất Tỵ 2025: 100% Sở Hữu 25TOTY Cùng Loạt Vật Phẩm Cần Thiết                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Từ ngày 01.02 (mùng 4 Tết) - 07.02 (mùng 10 Tết), “Chuỗi sản phẩm Tết” & “Gói HLV đặc biệt Tết” sẽ được ra mắt nhằm giúp các HLV có thể sở hữu dàn sao 25TOTY cùng bộ vật phẩm giá trị khác.                           </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/bo-ba-vat-pham-mung-3-tet-2025/"
+                        class="st-news__post"
+                        title="Bộ Ba Vật Phẩm Mùng 3 Tết Ất Tỵ 2025: Sở Hữu Loạt Vật Phẩm Xịn Sò Với Mức Đầu Tư &#8220;Hạt Dẻ&#8221;"
+                        data-page="5"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/01/GOIVANSUTUYDUYEN_326x183.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/01/GOIVANSUTUYDUYEN_326x183.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/01/GOIVANSUTUYDUYEN_326x183-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/01/GOIVANSUTUYDUYEN_326x183-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              31/01/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Bộ Ba Vật Phẩm Mùng 3 Tết Ất Tỵ 2025: Sở Hữu Loạt Vật Phẩm Xịn Sò Với Mức Đầu Tư &#8220;Hạt Dẻ&#8221;                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Để tiếp tục chuỗi vật phẩm Tết Ất Tỵ 2025, Bộ ba vật phẩm mùng 3 Tết sẽ được ra mắt nhằm giúp các HLV có cơ hội sở hữu BP khủng hoặc các gói cầu thủ xịn sò với mức giá “hạt dẻ”.                          </div>
+                        </div>
+                      </a>
+                                                                                                                                </div>
+
+                  <div class="st-news__pagination">
+                    <div class="pagination">
+                    </div>
+                  </div>
+
+                                              </div>
+                                        <div class="tab-pane fade " id="nav-2">
+                                  <div class="st-news__posts">
+                                                                                                        <a
+                        href="https://fconline.garena.vn/nhan-ve-ck-fvpl-spring-2025/"
+                        class="st-news__post"
+                        title="CÁCH THỨC NHẬN VÉ THAM GIA CHUNG KẾT FVPL SPRING 2025"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_Slide1_FVPLS24-VongCK_326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_Slide1_FVPLS24-VongCK_326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_Slide1_FVPLS24-VongCK_326x183-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/Banner_Slide1_FVPLS24-VongCK_326x183-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              21/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            CÁCH THỨC NHẬN VÉ THAM GIA CHUNG KẾT FVPL SPRING 2025                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            11h00 ngày 23.03.2025, các HLV đến Vikings Hoàng Văn Thụ và Star Gaming Hòa Hưng để nhận vé chung kết FVPL Spring 2025 miễn phí                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/thanh-pho-ho-chi-minh-30-03-2025-chung-ket-fvpl-spring-2025-upgrade-the-game/"
+                        class="st-news__post"
+                        title="[THÀNH PHỐ HỒ CHÍ MINH – 30.03.2025] CHUNG KẾT FVPL SPRING 2025: UPGRADE THE GAME"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-1.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-1.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-1-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/326x183-1-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              19/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [THÀNH PHỐ HỒ CHÍ MINH – 30.03.2025] CHUNG KẾT FVPL SPRING 2025: UPGRADE THE GAME                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Chung kết tổng năm nay sẽ được tổ chức vào ngày 30/03/2025 tại: Nhà thi đấu Quân Khu 7 (202 Hoàng Văn Thụ, P.9, Q. Phú Nhuận, TP. Hồ Chí Minh).                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/cong-bo-giai-dau-open-cup-ngay-23-03-2025/"
+                        class="st-news__post"
+                        title="CÔNG BỐ GIẢI ĐẤU OPENCUP NGÀY 23/03 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/Thumbnail_23.3.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/Thumbnail_23.3.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/Thumbnail_23.3-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/Thumbnail_23.3-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              19/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            CÔNG BỐ GIẢI ĐẤU OPENCUP NGÀY 23/03 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Xin chào các HLV! Giải đấu OpenCup là sân chơi cộng đồng và là sàn diễn để các HLV phô diễn kỹ năng cũng như cọ xát với các VĐV trên toàn quốc. Ngoài ra, còn các các phần thưởng vô cùng hấp dẫn ...                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/cong-bo-giai-dau-opencup-ngay-16-03-co-hoi-so-huu-vat-pham-fc-online-cuc-chat/"
+                        class="st-news__post"
+                        title="CÔNG BỐ GIẢI ĐẤU OPENCUP NGÀY 16/03 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/Thumb_16.3.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/Thumb_16.3.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/Thumb_16.3-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/Thumb_16.3-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              12/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            CÔNG BỐ GIẢI ĐẤU OPENCUP NGÀY 16/03 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Giải đấu OpenCup là sân chơi cộng đồng và là sàn diễn để các HLV phô diễn kỹ năng cũng như cọ xát với các VĐV trên toàn quốc. Ngoài ra, còn các các phần thưởng vô cùng hấp dẫn chờ đợi các HLV!                          </div>
+                        </div>
+                      </a>
+                                                                                                                                                          <a
+                        href="https://fconline.garena.vn/tong-ket-giai-dau-opencup-ngay-09-03-2025/"
+                        class="st-news__post"
+                        title="TỔNG KẾT GIẢI ĐẤU OPENCUP NGÀY 09/03/2025"
+                        data-page="2"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/Thumb_Tongket_09.03.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/Thumb_Tongket_09.03.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/Thumb_Tongket_09.03-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/Thumb_Tongket_09.03-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              11/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            TỔNG KẾT GIẢI ĐẤU OPENCUP NGÀY 09/03/2025                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Các giải đấu OpenCup ngày 09/03 vừa qua đã diễn ra vô cùng hấp dẫn. Đến với giải đấu, hàng trăm HLV cùng khu vực đã có cơ hội được cọ xát kỹ năng với nhau tạo ra bầu không khí ...                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/cong-bo-giai-dau-open-cup-ngay-09-03-co-hoi-so-huu-vat-pham-fc-online-cuc-chat/"
+                        class="st-news__post"
+                        title="CÔNG BỐ GIẢI ĐẤU OPEN CUP NGÀY 09/03 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!"
+                        data-page="2"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/Thumbnail_9.3.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/Thumbnail_9.3.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/Thumbnail_9.3-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/Thumbnail_9.3-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              05/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            CÔNG BỐ GIẢI ĐẤU OPEN CUP NGÀY 09/03 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Giải đấu OpenCup là sân chơi cộng đồng và là sàn diễn để các HLV phô diễn kỹ năng cũng như cọ xát với các VĐV trên toàn quốc. Ngoài ra, còn các các phần thưởng vô cùng hấp dẫn chờ đợi các HLV!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/tong-ket-giai-dau-opencup-ngay-02-03-2025/"
+                        class="st-news__post"
+                        title="TỔNG KẾT GIẢI ĐẤU OPENCUP NGÀY 02/03/2025"
+                        data-page="2"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/03/Thumbnail_2.3.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/03/Thumbnail_2.3.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/03/Thumbnail_2.3-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/03/Thumbnail_2.3-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              04/03/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            TỔNG KẾT GIẢI ĐẤU OPENCUP NGÀY 02/03/2025                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Giải đấu OpenCup ngày 02/03 vừa qua đã diễn ra vô cùng hấp dẫn, trải qua những trận đấu đầy kịch tính, các nhà vô địch đã dần lộ diện.                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/tong-ket-giai-dau-giao-huu-fanclub-thang-1-2025/"
+                        class="st-news__post"
+                        title="TỔNG KẾT GIẢI ĐẤU GIAO HỮU FANCLUB THÁNG 1/2025"
+                        data-page="2"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/Tong-ket-thang-1.2025.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/Tong-ket-thang-1.2025.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/Tong-ket-thang-1.2025-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/Tong-ket-thang-1.2025-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              28/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            TỔNG KẾT GIẢI ĐẤU GIAO HỮU FANCLUB THÁNG 1/2025                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Sau vòng tuyển chọn hấp dẫn đã tuyển chọn ra 27 cái tên xuất sắc tham dự vòng giao hữu của các Fanclub tháng 1/2025. 
+Vòng chung kết vô cùng nghẹt thở, chúng ta đã tìm ra những cái tên xuất sắc ...                          </div>
+                        </div>
+                      </a>
+                                                                                                                                                          <a
+                        href="https://fconline.garena.vn/tong-ket-giai-dau-opencup-thang-02-2025/"
+                        class="st-news__post"
+                        title="TỔNG KẾT GIẢI ĐẤU OPENCUP THÁNG 02/2025"
+                        data-page="3"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/Thumbnail_Tongket-T2.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/Thumbnail_Tongket-T2.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/Thumbnail_Tongket-T2-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/Thumbnail_Tongket-T2-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              27/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            TỔNG KẾT GIẢI ĐẤU OPENCUP THÁNG 02/2025                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Các giải đấu OpenCup tháng 2 vừa qua đã diễn ra vô cùng hấp dẫn. Đến với giải đấu, hàng trăm HLV cùng khu vực đã có cơ hội được cọ xát kỹ năng với nhau tạo ra bầu không khí cực ...                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/cong-bo-giai-dau-open-cup-ngay-02-03-2025/"
+                        class="st-news__post"
+                        title="CÔNG BỐ GIẢI ĐẤU OPEN CUP NGÀY 02/03 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!"
+                        data-page="3"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/Thumbnail_02.03.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/Thumbnail_02.03.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/Thumbnail_02.03-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/Thumbnail_02.03-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              27/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            CÔNG BỐ GIẢI ĐẤU OPEN CUP NGÀY 02/03 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Giải đấu OpenCup là sân chơi cộng đồng và là sàn diễn để các HLV phô diễn kỹ năng cũng như cọ xát với các VĐV trên toàn quốc, tìm hiểu ngay!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/cong-bo-giai-dau-open-cup-ngay-23-02-2025/"
+                        class="st-news__post"
+                        title="CÔNG BỐ GIẢI ĐẤU OPEN CUP NGÀY 23/02 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!"
+                        data-page="3"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/SeaTalk_IMG_20250220_174037.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/SeaTalk_IMG_20250220_174037.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/SeaTalk_IMG_20250220_174037-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/SeaTalk_IMG_20250220_174037-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              20/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            CÔNG BỐ GIẢI ĐẤU OPEN CUP NGÀY 23/02 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Giải đấu OpenCup là sân chơi cộng đồng và là sàn diễn để các HLV phô diễn kỹ năng cũng như cọ xát với các VĐV trên toàn quốc. Ngoài ra, còn các các phần thưởng vô cùng hấp dẫn chờ đợi các HLV!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/nang-cap-tuyen-thu/"
+                        class="st-news__post"
+                        title="[SỰ KIỆN ĐỒNG HÀNH FVPL SPRING 2025] NÂNG CẤP TUYỂN THỦ: PHONG ĐỘ THĂNG HOA, BÙNG NỔ QUÀ TẶNG"
+                        data-page="3"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/KVDAU_FVPLSP25_326x183.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/KVDAU_FVPLSP25_326x183.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/KVDAU_FVPLSP25_326x183-300x168.jpg 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/KVDAU_FVPLSP25_326x183-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              14/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [SỰ KIỆN ĐỒNG HÀNH FVPL SPRING 2025] NÂNG CẤP TUYỂN THỦ: PHONG ĐỘ THĂNG HOA, BÙNG NỔ QUÀ TẶNG                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Nhằm góp phần gia tăng sự bùng nổ của giải đấu chuyên nghiệp lớn nhất Việt Nam, chúng tôi xin gửi đến các HLV sự kiện đồng hành FVPL Spring 2025 mang tên Nâng Cấp Tuyển Thủ: Phong Độ Thăng Hoa ...                          </div>
+                        </div>
+                      </a>
+                                                                                                                                                          <a
+                        href="https://fconline.garena.vn/cong-bo-giai-dau-open-cup-ngay-16-02-2025/"
+                        class="st-news__post"
+                        title="CÔNG BỐ GIẢI ĐẤU OPEN CUP NGÀY 16/02 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!"
+                        data-page="4"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/02/SeaTalk_IMG_20250213_095618.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/SeaTalk_IMG_20250213_095618.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/SeaTalk_IMG_20250213_095618-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/SeaTalk_IMG_20250213_095618-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              13/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            CÔNG BỐ GIẢI ĐẤU OPEN CUP NGÀY 16/02 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Giải đấu OpenCup là sân chơi cộng đồng và là sàn diễn để các HLV phô diễn kỹ năng cũng như cọ xát với các VĐV trên toàn quốc, tìm hiểu ngay!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/swiss-stage-fvpl-spring-2025/"
+                        class="st-news__post"
+                        title="[SWISS STAGE] FVPL Spring 2025: Upgrade The Game &#8211; Nâng Tầm Cuộc Chơi"
+                        data-page="4"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img src="https://fconline.garena.vn/wp-content/uploads/2025/02/KV_FVPLSP25_326x183-1.jpg">
+                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              10/02/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [SWISS STAGE] FVPL Spring 2025: Upgrade The Game &#8211; Nâng Tầm Cuộc Chơi                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Sau sự thành công vượt bậc của 3 mùa giải FVPL trong năm 2024, mùa giải FVPL Spring 2025 đã chính thức khởi tranh vào 15/02/2025. UPGRADE THE GAME: NÂNG TẦM CUỘC CHƠI Không chỉ dừng ở một giải ...                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/tong-ket-giai-dau-open-cup-chao-xuan-at-ty-2025/"
+                        class="st-news__post"
+                        title="TỔNG KẾT GIẢI ĐẤU OPEN CUP CHÀO XUÂN ẤT TỴ 2025"
+                        data-page="4"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/01/Thumb-Tet-326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/01/Thumb-Tet-326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/01/Thumb-Tet-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              25/01/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            TỔNG KẾT GIẢI ĐẤU OPEN CUP CHÀO XUÂN ẤT TỴ 2025                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Giải đấu OpenCup Chào Xuân Ất Tỵ 2025 vừa qua đã diễn ra vô cùng hấp dẫn. Đến với giải đấu, hàng trăm HLV cùng khu vực đã có cơ hội được cọ xát kỹ năng với nhau tạo ra bầu không ...                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/tong-ket-giai-dau-giao-huu-fanclub-thang-12/"
+                        class="st-news__post"
+                        title="TỔNG KẾT GIẢI ĐẤU GIAO HỮU FANCLUB THÁNG 12"
+                        data-page="4"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/01/Tong-ket-thang-12.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/01/Tong-ket-thang-12.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/01/Tong-ket-thang-12-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/01/Tong-ket-thang-12-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              20/01/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            TỔNG KẾT GIẢI ĐẤU GIAO HỮU FANCLUB THÁNG 12                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Vòng chung kết vô cùng nghẹt thở, chúng ta đã tìm ra những cái tên xuất sắc nhất tại giải đấu với ngôi vị cao nhất thuộc về tâm tấu của Fanclub PENA Madridista FC Online Vietnam                          </div>
+                        </div>
+                      </a>
+                                                                                                                                                          <a
+                        href="https://fconline.garena.vn/chung-ket-duong-len-dinh-fc-online-chung-ket-quy-iv/"
+                        class="st-news__post"
+                        title="CHUNG KẾT ĐƯỜNG LÊN ĐỈNH FC ONLINE &#8211; CHUNG KẾT QUÝ IV"
+                        data-page="5"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/01/thumb-quy-iv-326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/01/thumb-quy-iv-326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/01/thumb-quy-iv-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              20/01/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            CHUNG KẾT ĐƯỜNG LÊN ĐỈNH FC ONLINE &#8211; CHUNG KẾT QUÝ IV                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Sau ngày thi đấu vòng chung kết vô cùng nghẹt thở, chúng ta đã tìm ra những cái tên xuất sắc nhất tại giải đấu với ngôi vị cao nhất thuộc về VĐV Lê Nhữ Tú                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/open-cup-chao-don-tet-at-ty-2025/"
+                        class="st-news__post"
+                        title="CÔNG BỐ GIẢI ĐẤU OPEN CUP NGÀY 19/01 &#8211; CHÀO XUÂN ẤT TỴ 2025"
+                        data-page="5"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/01/Thumbnail-19.01-326x183.jpg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/01/Thumbnail-19.01-326x183.jpg 326w, https://fconline.garena.vn/wp-content/uploads/2025/01/Thumbnail-19.01-213x119.jpg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              14/01/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            CÔNG BỐ GIẢI ĐẤU OPEN CUP NGÀY 19/01 &#8211; CHÀO XUÂN ẤT TỴ 2025                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Cơ hội sở hữu rất nhiều phần quà từ NPH cũng như được cọ sát, phô diễn kỹ năng với các HLV khác. Tham gia ngay thôi nào!                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/cong-bo-giai-dau-open-cup-ngay-12-01-2025/"
+                        class="st-news__post"
+                        title="CÔNG BỐ GIẢI ĐẤU OPEN CUP NGÀY 12/01 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!"
+                        data-page="5"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/01/SeaTalk_IMG_20250108_181942-326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/01/SeaTalk_IMG_20250108_181942-326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/01/SeaTalk_IMG_20250108_181942-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              09/01/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            CÔNG BỐ GIẢI ĐẤU OPEN CUP NGÀY 12/01 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Giải đấu OpenCup là sân chơi cộng đồng và là sàn diễn để các HLV phô diễn kỹ năng cũng như cọ xát với các VĐV trên toàn quốc                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/cong-bo-giai-dau-open-cup-ngay-05-01-2025/"
+                        class="st-news__post"
+                        title="CÔNG BỐ GIẢI ĐẤU OPEN CUP NGÀY 05/01 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!"
+                        data-page="5"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2025/01/SeaTalk_IMG_20250103_153837-326x183.jpeg" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/01/SeaTalk_IMG_20250103_153837-326x183.jpeg 326w, https://fconline.garena.vn/wp-content/uploads/2025/01/SeaTalk_IMG_20250103_153837-213x119.jpeg 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              03/01/2025                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            CÔNG BỐ GIẢI ĐẤU OPEN CUP NGÀY 05/01 &#8211; CƠ HỘI SỞ HỮU VẬT PHẨM FC ONLINE CỰC CHẤT!                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Giải đấu OpenCup là sân chơi cộng đồng và là sàn diễn để các HLV phô diễn kỹ năng cũng như cọ xát với các VĐV trên toàn quốc, tìm hiểu ngay!                          </div>
+                        </div>
+                      </a>
+                                                                                                                                </div>
+
+                  <div class="st-news__pagination">
+                    <div class="pagination">
+                    </div>
+                  </div>
+
+                                              </div>
+                                        <div class="tab-pane fade " id="nav-3">
+                                  <div class="st-news__posts">
+                                                                                                        <a
+                        href="https://fconline.garena.vn/dev-notes-sieu-cap-nhat-30-10-2024/"
+                        class="st-news__post"
+                        title="[Dev Notes] Bản Siêu Cập Nhật Tháng 30.10.2024"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2024/10/dev-note-scn-30.10.2024-326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2024/10/dev-note-scn-30.10.2024-326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2024/10/dev-note-scn-30.10.2024-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              30/10/2024                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [Dev Notes] Bản Siêu Cập Nhật Tháng 30.10.2024                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Kế hoạch phát triển gameplay, những cập nhật lớn trong tháng 10 và giới thiệu thông tin cấp phép FC Online cùng các trường hợp áp dụng mà nhiều HLV có thể quan tâm.                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/dev-notes-t11/"
+                        class="st-news__post"
+                        title="[Dev Notes] Điều Chỉnh Game Play Cuối Tháng 11"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2023/12/326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2023/12/326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2023/12/326x183-300x168.png 300w, https://fconline.garena.vn/wp-content/uploads/2023/12/326x183-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              19/12/2023                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            [Dev Notes] Điều Chỉnh Game Play Cuối Tháng 11                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Những điều chỉnh quan trọng trong trận đấu của FC Online mà chúng tôi đã thực hiện trong bản cập nhật tháng 11 (29/11/2023).                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/dev-note-icon-the-moment/"
+                        class="st-news__post"
+                        title="DEV NOTE ICON THE MOMENT"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2023/09/thumb-devnotes-326x200-1-326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2023/09/thumb-devnotes-326x200-1-326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2023/09/thumb-devnotes-326x200-1-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              16/09/2023                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            DEV NOTE ICON THE MOMENT                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Tại DEV NOTE trong hôm nay, chúng tôi sẽ nói chi tiết  về cách tạo ra ICON The Moment và cập nhật chỉ số ICONS.                          </div>
+                        </div>
+                      </a>
+                                                                                                            <a
+                        href="https://fconline.garena.vn/dev-notes-club-house/"
+                        class="st-news__post"
+                        title="Dev Notes Club House"
+                        data-page="1"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2023/09/DEV-NOTE_HEROES_326-326x183.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2023/09/DEV-NOTE_HEROES_326-326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2023/09/DEV-NOTE_HEROES_326-213x119.png 213w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              16/09/2023                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            Dev Notes Club House                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Tìm hiểu ngay Club House - tính năng sẽ được cập nhật vào ngày 05/04/2023                          </div>
+                        </div>
+                      </a>
+                                                                                                                                                          <a
+                        href="https://fconline.garena.vn/dev-notes-co-gi-hot-tai-ban-cap-nhat-22ucl/"
+                        class="st-news__post"
+                        title="DEV NOTES: CÓ GÌ HOT TẠI BẢN CẬP NHẬT 22UCL?"
+                        data-page="2"
+                      >
+                        <!-- Image -->
+                        <div class="st-news__post--image">
+                                                      <img width="326" height="183" src="https://fconline.garena.vn/wp-content/uploads/2023/09/DevNote_22UCL_326.png" class="attachment-fco_326x183 size-fco_326x183 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2023/09/DevNote_22UCL_326.png 326w, https://fconline.garena.vn/wp-content/uploads/2023/09/DevNote_22UCL_326-213x119.png 213w, https://fconline.garena.vn/wp-content/uploads/2023/09/DevNote_22UCL_326-300x168.png 300w" sizes="auto, (max-width: 326px) 100vw, 326px" />                                                  </div>
+
+                        <div class="st-news__post--content">
+                          <div class="st-news__post--meta">
+                            <!-- Date -->
+                            <p class="st-news__post--date">
+                              16/09/2023                            </p>
+                          </div>
+
+                          <!-- Title -->
+                          <h3 class="st-news__post--title">
+                            DEV NOTES: CÓ GÌ HOT TẠI BẢN CẬP NHẬT 22UCL?                          </h3>
+
+                          <!-- Description -->
+                          <div class="st-news__post--description">
+                            Dev Notes chính là những tâm sự của đội ngũ phát triển game đối với các HLV. Trong đó, đội ngũ sẽ trình bày mục đích và quá trình cho ra mắt các sản phẩm/ tính năng mới trong FIFA Online 4, cũng ...                          </div>
+                        </div>
+                      </a>
+                                                                                  </div>
+
+                  <div class="st-news__pagination">
+                    <div class="pagination">
+                    </div>
+                  </div>
+
+                                              </div>
+                      </div>
+        </div>
+      </div>
+    </section>
+  
+  <!-- Videos -->
+  <section class="st-videos">
+    <div class="wrapper">
+      <!-- Categories -->
+      <ul class="st-videos__tabs nav">
+                  <li>
+            <a
+              href="#nav-video-0"
+              class="active"
+              data-toggle="tab"
+            >Official</a>
+          </li>
+                  <li>
+            <a
+              href="#nav-video-1"
+              class=""
+              data-toggle="tab"
+            >Gợi ý</a>
+          </li>
+                  <li>
+            <a
+              href="#nav-video-2"
+              class=""
+              data-toggle="tab"
+            >Hướng dẫn</a>
+          </li>
+                  <li>
+            <a
+              href="#nav-video-3"
+              class=""
+              data-toggle="tab"
+            >E-SPORTS</a>
+          </li>
+              </ul>
+
+      <!-- VIDEOS -->
+      <div class="tab-content">
+                            <div class="tab-pane fade show active" id="nav-video-0">
+                          <div class="st-videos__items">
+                <div class="owl-carousel">
+                                                          <a
+                      data-fancybox
+                      href="https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=onpfbh8NMm0"
+                      class="st-videos__item"
+                      title="Mùa thẻ mới 24UCL"
+                    ><img width="213" height="119" src="https://fconline.garena.vn/wp-content/uploads/2025/02/KV-MuaThe_24UCL_1920-213x119.png" class="attachment-fco_213x119 size-fco_213x119 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2025/02/KV-MuaThe_24UCL_1920-213x119.png 213w, https://fconline.garena.vn/wp-content/uploads/2025/02/KV-MuaThe_24UCL_1920-300x169.png 300w, https://fconline.garena.vn/wp-content/uploads/2025/02/KV-MuaThe_24UCL_1920-1024x576.png 1024w, https://fconline.garena.vn/wp-content/uploads/2025/02/KV-MuaThe_24UCL_1920-768x432.png 768w, https://fconline.garena.vn/wp-content/uploads/2025/02/KV-MuaThe_24UCL_1920-1536x864.png 1536w, https://fconline.garena.vn/wp-content/uploads/2025/02/KV-MuaThe_24UCL_1920-326x183.png 326w, https://fconline.garena.vn/wp-content/uploads/2025/02/KV-MuaThe_24UCL_1920.png 1920w" sizes="auto, (max-width: 213px) 100vw, 213px" /></a>
+                                                          <a
+                      data-fancybox
+                      href="https://www.youtube.com/watch?v=xTKuUFo2DCA"
+                      class="st-videos__item"
+                      title="FC Online Chính Thức Xuất Hiện"
+                    ><img width="213" height="119" src="https://fconline.garena.vn/wp-content/uploads/2023/09/fco-213x119.jpg" class="attachment-fco_213x119 size-fco_213x119 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2023/09/fco-213x119.jpg 213w, https://fconline.garena.vn/wp-content/uploads/2023/09/fco-326x183.jpg 326w" sizes="auto, (max-width: 213px) 100vw, 213px" /></a>
+                                  </div>
+              </div>
+                                  </div>
+                            <div class="tab-pane fade " id="nav-video-1">
+                          <!-- Has no videos -->
+              <div class="st-videos__blank">
+                Không có video nào!
+              </div>
+                                  </div>
+                            <div class="tab-pane fade " id="nav-video-2">
+                          <div class="st-videos__items">
+                <div class="owl-carousel">
+                                                          <a
+                      data-fancybox
+                      href="https://www.youtube.com/watch?v=4PncgxsNUGw"
+                      class="st-videos__item"
+                      title="Bí Kíp Leo Rank Chuyên Nghiệp Cực Mượt Chỉ Trong 3 Tuần"
+                    ><img width="213" height="119" src="https://fconline.garena.vn/wp-content/uploads/2023/09/hqdefault-1-213x119.jpg" class="attachment-fco_213x119 size-fco_213x119 wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://fconline.garena.vn/wp-content/uploads/2023/09/hqdefault-1-213x119.jpg 213w, https://fconline.garena.vn/wp-content/uploads/2023/09/hqdefault-1-326x183.jpg 326w" sizes="auto, (max-width: 213px) 100vw, 213px" /></a>
+                                  </div>
+              </div>
+                                  </div>
+                            <div class="tab-pane fade " id="nav-video-3">
+                          <!-- Has no videos -->
+              <div class="st-videos__blank">
+                Không có video nào!
+              </div>
+                                  </div>
+              </div>
+    </div>
+  </section>
+</div>
+
+
+  </main>
+
+    
+  <footer class="footer">
+    <div class="wrapper">
+      <div class="footer__wrap">
+        <div class="footer__logos">
+          <img src="https://fconline.garena.vn/wp-content/themes/fc-online/assets/img/logos.png?ver=1.0">
+        </div>
+        <div class="footer__content">
+          &copy; 2023 Electronic Arts Inc. Electronic Arts, EA, EA SPORTS,<br/>
+          The EA SPORTS logo, EA SPORTS FC, and the EA SPORTS FC logo are trademarks of Electronic Arts Inc.
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key&amp;ver=22.09.2023" id="google-map-js"></script>
+<script type="text/javascript" src="https://fconline.garena.vn/wp-content/themes/fc-online/assets/js/owl.carousel.min.js?ver=22.09.2023" id="owl-carousel-script-js"></script>
+<script type="text/javascript" src="https://fconline.garena.vn/wp-content/themes/fc-online/assets/js/fancybox.min.js?ver=22.09.2023" id="fancybox-script-js"></script>
+<script type="text/javascript" src="https://fconline.garena.vn/wp-content/themes/fc-online/assets/js/bootstrap.min.js?ver=22.09.2023" id="bootstrap-script-js"></script>
+<script type="text/javascript" src="https://fconline.garena.vn/wp-content/themes/fc-online/assets/js/script.js?ver=22.09.2023" id="app-script-js"></script>
+  </body>
+</html>
+<!--
+Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
+
+Retrieved 5527 objects (1 MB) from Redis using PhpRedis (v4.3.0).
+-->
