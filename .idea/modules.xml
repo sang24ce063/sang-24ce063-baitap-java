@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sang-24ce063-baitap-java/BT_IOStream/BT_IOStream.iml" filepath="$PROJECT_DIR$/sang-24ce063-baitap-java/BT_IOStream/BT_IOStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chương2/BT_filett/BT_filett.iml" filepath="$PROJECT_DIR$/Chương2/BT_filett/BT_filett.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chương1/Bai2/Bai2.iml" filepath="$PROJECT_DIR$/Chương1/Bai2/Bai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chương1/Bai3/Bai3.iml" filepath="$PROJECT_DIR$/Chương1/Bai3/Bai3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chương1/Bai5/Bai5.iml" filepath="$PROJECT_DIR$/Chương1/Bai5/Bai5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chương1/Bai6/Bai6.iml" filepath="$PROJECT_DIR$/Chương1/Bai6/Bai6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chương1/Bai7/Bai7.iml" filepath="$PROJECT_DIR$/Chương1/Bai7/Bai7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chương1/Chương1.iml" filepath="$PROJECT_DIR$/Chương1/Chương1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chương2/Chương2.iml" filepath="$PROJECT_DIR$/Chương2/Chương2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bt lập trình java.iml" filepath="$PROJECT_DIR$/.idea/bt lập trình java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sang-24ce063-baitap-java/sang-24ce063-baitap-java.iml" filepath="$PROJECT_DIR$/sang-24ce063-baitap-java/sang-24ce063-baitap-java.iml" />
+    </modules>
+  </component>
+</project>
